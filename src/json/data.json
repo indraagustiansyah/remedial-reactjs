@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "indra",
+      "email": "indra.agustiansyah@gmail.com",
+      "experience": "01",
+      "lvl": "8",
+      "id": 1
+    },
+    {
+      "username": "saefullah",
+      "email": "ada@email.com",
+      "experience": "3",
+      "lvl": "8",
+      "id": 2
+    },
+    {
+      "username": "vadya",
+      "email": "vadyavabian@gmail.com",
+      "experience": "12",
+      "lvl": "8",
+      "id": 3
+    }
+  ]
+}
